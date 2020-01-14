@@ -1,0 +1,2 @@
+<!--pages/wxml/index.wxml-->
+<text data-test="{{time}}">Hello</text>
